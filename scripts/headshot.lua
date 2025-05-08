@@ -1,0 +1,6 @@
+gg.alert("Auto Headshot Activated")
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("90", gg.TYPE_FLOAT)
+gg.getResults(9999)
+gg.editAll("999", gg.TYPE_FLOAT)
+gg.toast("Boom! Headshot Mode ON!")
